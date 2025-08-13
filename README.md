@@ -4,13 +4,16 @@
 - ​**Total Images**: 11,139 (9,139 self-collected + 2,000 from FLAME)
 - ​**Annotations**: PASCAL VOC format (XML files)
 - ​**Download**: [Baidu Cloud Link](https://pan.baidu.com/s/1g-pjbcMnjMLAAiKqUwClng?pwd=p7nr)  
-  🔑 Password: `p7nr`
+  🔑 Password: `p7nr`  
+  *(Note: The Baidu Cloud contains only the 9,139 self-collected images)*
 
 ## 🖼️ Dataset Samples
 <div align="center">
-  <img src="[https://github.com/yuqian-hn/CCLNet-TF11K-ForestFireDetectionDataset/blob/main/docs/figures/dataset1.png)" width="600">
-  <img src="[https://github.com/yuqian-hn/CCLNet-TF11K-ForestFireDetectionDataset/blob/main/docs/figures/dataset2.png)" width="600">
-  <img src="[https://github.com/yuqian-hn/CCLNet-TF11K-ForestFireDetectionDataset/blob/main/docs/figures/dataset3.png)" width="600">
+  <img src="https://github.com/yuqian-hn/CCLNet-TF11K-ForestFireDetectionDataset/raw/main/docs/figures/dataset1.png" width="600">
+  <br>
+  <img src="https://github.com/yuqian-hn/CCLNet-TF11K-ForestFireDetectionDataset/raw/main/docs/figures/dataset2.png" width="600">
+  <br>
+  <img src="https://github.com/yuqian-hn/CCLNet-TF11K-ForestFireDetectionDataset/raw/main/docs/figures/dataset3.png" width="600">
   <br>
   <em>Figure 1: Example images with fire annotations (red boxes)</em>
 </div>
